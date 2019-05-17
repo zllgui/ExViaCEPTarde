@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExViaCEPTarde</string>
+    <string name="ma_et_cep">CEP</string>
+    <string name="ma_bt_buscar">Buscar</string>
+</resources>
